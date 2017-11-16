@@ -8,6 +8,10 @@ public class IntegGitHub {
 	public static void Test () {
 		 
 		System.out.println("Testing");
+		
+		//Modified by Archana
+		
+		System.out.println("Pushing changes");
 	}
 
 }
